@@ -1,0 +1,50 @@
+-rw-r--r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu    94284 Jun 28 16:35 4HKD.pdb
+-rwxrwxr-x. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu     8360 Jul 28 12:09 a.out
+-rwxrwxr-x. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu     8408 Jul 13 12:31 args
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      251 Jul 13 12:30 args.c
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu     1702 Jul 12 22:04 converttowords.c
+-rw-------. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      598 Jul 12 18:12 converttowords.c.save
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu     1915 Jul 12 18:12 converttowords.c.save.1
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       12 Jun 21 18:39 echod.sh
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       12 Jun 21 18:37 echod.sh a b
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        0 Jul  2 16:34 emails
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      136 Jul 28 14:24 final1.c
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      328 Jul 28 11:04 final1.py
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        0 Jul 28 18:43 FINALinstruction
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       77 Jul  7 14:01 hello.c
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        0 Jul 28 10:00 \home\kosae1\FINALpython
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      551 Jul 13 17:41 homework1.c
+-rwxrwxr-x. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu     8416 Jul 13 17:41 hw
+-rwxrwxr-x. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      207 Jun 30 22:07 knutstostring.sh
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       50 Jun 29 22:20 lab2data.txt
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        0 Jun 14 13:03 labfile2
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu     1162 Jul 11 09:44 largepalindrome.c
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      315 Jul  7 22:17 leap.c
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      121 Jul  2 17:03 mail.txt
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        0 Jun 14 16:29 man
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       76 Jun 21 20:48 popd
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       13 Jun 21 20:44 popd.sh
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu   198724 Jun 26 18:07 project.tar.gz
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      139 Jun 21 20:14 pushd
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       19 Jun 21 20:28 pushd.sh
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      305 Jun 30 01:18 readme.MD
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        8 Jun 26 19:31 README.md
+-rwxrwxr-x. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      191 Jun 30 22:10 stringtoknuts.sh
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      154 Jul  2 11:26 Submission
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu 16339644 Jul  1 16:41 sub.xlsx
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      209 Jul 10 18:20 sums.c
+-rwxrwxr-x. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       74 Jun 30 01:34 sum.sh
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       32 Jun 30 00:44 tempknuts.txt
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       37 Jun 23 15:11 test1
+-rw-------. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        0 Jun 23 17:22 test1.save
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu       57 Jun 23 17:22 test1.save.1
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      446 Jul 13 20:36 tiks.c
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu      416 Jul 13 19:36 try.c
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu        0 Jul  2 10:41 urls.txt
+-rw-rw-r--. 1 kosae1@gsuad.gsu.edu kosae1@gsuad.gsu.edu     2671 Jul  2 18:59 wget-log
+
+
+
+/* this is the code for producing the right list
+*/
+ls -l |awk '/^-r/' > FINALinstruction
